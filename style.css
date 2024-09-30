@@ -1,0 +1,522 @@
+
+#aba{
+  padding: 10px;
+}
+#a{
+  font-size: xx-large;
+  font-weight: bold;
+  margin-left: 90px;
+  font-family: sans-serif;
+}
+#xx, #mm{
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: bold;
+}
+#g, #h{
+  color:blue;
+  margin-left: 19px;
+}
+#xx{
+  margin-left: 300px;
+}
+#p, #o{
+  margin-left: 125px;
+  font-size: 17px;
+}
+#o{
+  margin-left: 245px;
+}
+#q{
+  margin-left: 50px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding: 10px;
+  text-align: center;
+  width: 12%;
+  cursor: pointer
+}
+#m{
+  margin-top: 12px;
+  color: white;
+  padding: 20px;
+}
+#n{
+  margin-left: 100px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+#sis{
+  margin-left: 50%;
+  background-color: blue;
+  padding: 12px;
+  border: 2px solid blue;
+  border-radius: 20px;
+  width: 15%;
+  outline: none;
+  color: white;
+}
+#sis::placeholder{
+  color: white;
+  font-size: 15px;
+}
+#pri{
+  margin-left: -30px;
+}
+.did{
+  background-image: url("../image/ggg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
+  height: 500px;
+  
+}
+#pre{
+  margin-top: 8%;
+  margin-left: 10%;
+}
+#wiz{
+  font-weight: 50px;
+  color: white;
+  font-size: medium;
+}
+#z, #j{
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 60px;
+  color: white;
+  
+}
+#lil{
+  border-radius: 50px;
+  margin-left: 20px;
+  color: white;
+  background-color: blue;
+  padding: 25px;
+  border: none;
+  font-size: medium;
+  margin-top: 10px;
+}
+#yy{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: 10%;
+  margin-top: 5%;
+  color: blue;
+  font-size: 30px;
+}
+#lo{
+  margin-left: 10%;
+  color: blue;
+  font-size: 22px;
+  text-align: justify;
+  width: 35%;
+  line-height: 30px;
+}
+.major div{
+  display: inline-block;
+  width: 45%;
+  padding: 20px;
+}
+.science{
+  position: absolute;
+  margin-top: -40%;
+  margin-left: 2%;
+}
+.science div{
+  border: 2px solid blue;
+  width: 50%;
+  padding: 12px;
+}
+.catch div{
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  margin-left: 35%;
+  width: 100%;
+  height: 200px;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.catch i{
+  font-size: 300%;
+}
+.afro{
+  background-image: url("../image/ggg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin-bottom: 15%;
+  width: 100%;
+  
+}
+.student{
+  /*margin-top: 22%;*/
+  width: 100%;
+ /* margin-left: 21%;*/
+  background-color: blue;
+  opacity: 0.7;
+   height: 200px;
+  margin-top: -15px;
+}
+}
+#run{
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.ig{
+  padding: 20px;
+  background-color: white;
+  width: 35%;
+  margin-left: 30%;
+  margin-top: -20%;
+  position: absolute;
+  box-shadow: 0px 3px blue;
+}
+.fb div{
+  display: inline-block;
+  width: 23%;
+}
+.fb div p{
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 20px;
+}
+.fb hr{
+  width: 20px;
+  margin-left: -2px;
+  height: 1px;
+  background-color: aquamarine;
+}
+user1{
+  margin-left: 12px;
+}
+#juice{
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 40%;
+  color: lightcyan;
+}
+#mix{
+  font-size: 20px;
+  width: 48%;
+  color: gray;
+  text-align: center;
+  margin-left: 29%;
+}
+.chin div{
+  display: inline-block;
+  padding: 20px;
+}
+.uzo i{
+  font-size: 300%;
+  color: greenyellow;
+}
+.uzo{
+  text-align: center;
+}
+.quavo{
+  background-image: url("../image/meeting.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15%;
+  height: 10px;
+  margin-bottom: 10%;
+}
+.takeoff{
+  padding: 21%;
+  background-color: blue;
+  margin-top: -22%;
+  margin-left: -21%;
+  width: 100%;
+  height: 23px;
+  opacity: 0.8;
+}
+#durk{
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: -1%;
+}
+#sad{
+  border-radius: 50px;
+  padding: 30px;
+  width: 15%;
+  color: blue;
+  font-weight: bold;
+  border: none;
+  margin-left: 25%;
+}
+#sad{
+  position: absolute;
+  margin-top: -5%;
+  margin-left: 30%;
+}
+#chain{
+  margin-left: 40%;
+  color: blue;
+  font-size: 30px;
+  
+}
+#gunna{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 29%;
+  color: gray;
+  width: 40%;
+  margin-bottom: 5%;
+}
+.jay{
+  width: 100%
+  
+}
+.jay img{
+  width: 24%;
+  height: 300px;
+  margin:-2px;
+}
+.uhuru{
+  background-image: url("../image/meeting.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15%;
+  height: 50%;
+  opacity: 0.8;
+  
+}
+.sound{
+  padding: 21%;
+  background-color: blue;
+  margin-top: -22%;
+  width: 100%;
+  margin-left: -21%;
+  height: 23px;
+}
+#lalige{
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 70%;
+  margin-bottom: -3%;
+}
+#daniel{
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 70%;
+}
+#uche{
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 70%;
+  line-height: 30px;
+}
+.sound div{
+  margin-top: -10%;
+}
+.unknown{
+  width: 100%;
+  margin-bottom: 10%;
+}
+.unknown div{
+  display: inline-block;
+  width: 45%;
+}
+.unknown1 div{
+  margin-left: 60%;
+}
+.unknown1 div p, .unknown2 div p{
+  padding: 8px;
+}
+.unknown1 div, .unknown2 div, .unknown3 div{
+  border: 2px solid blue;
+}
+.unknown2 div {
+  margin-left: 60px;
+}
+.unknown3 div{
+  margin-left: 60%;
+  margin-top: 10px;
+}
+.col{
+  background: blue;
+  color: white;
+  margin-left: 20px;
+}
+.bu{
+  border-radius: 50px;
+  background: blue;
+  color: white;
+  padding: 20px;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  border: none;
+}
+.h{
+  background-color: blue;
+  color: whitesmoke;
+  width: 25px;
+  padding: 20px;
+  font-size: 12px;
+  position: absolute;
+  margin-top: -87%;
+  margin-left: 27%;
+  z-index: 1;
+}
+.hero{
+  background-color: blue;
+  color: whitesmoke;
+  width: 25px;
+  padding: 20px;
+  font-size: 12px;
+  position: absolute;
+  margin-top: -87%;
+  margin-left: 49.8%;
+  z-index: 1;
+  text-align: center;
+}
+.wale{
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 40%;
+  color: blue;
+}
+#nb{
+  font-size: 20px;
+  color: gray;
+  line-height: 30px;
+  text-align: center;
+  margin-left: 8%;
+}
+
+#wale{
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 40%;
+  color: blue;
+}
+.hero2{
+  background-color: blue;
+  color: whitesmoke;
+  width: 25px;
+  padding: 20px;
+  font-size: 12px;
+  position: absolute;
+  margin-left: 28%;
+  margin-top: 44.7%;
+  z-index: 1;
+  text-align: center;
+}
+.rema{
+  border: 2px solid green;
+  margin-top: 10px;
+  margin-left: 28%;
+  width: 50%;
+  padding: 20px;
+}
+.rema i{
+  color: whitesmoke;
+  font-size: 50px;
+  position: absolute;
+  margin-top: -50px'';
+  margin-left:100px;
+}
+.rema img{
+  width: 10%;
+  border-radius: 50px;
+}
+.asaka{
+  color: black;
+  margin-top: -8%;
+  margin-left:-11%;
+  line-height: 88px;
+}
+#lungo{
+  font-weight: bold;
+  margin-left: 15%;
+}
+#eazi{
+  color: blue;
+  margin-left: 15%;
+}
+.icons i{
+  font-size: 10px;
+  padding: 2px;
+  color: gray;
+}
+.icons{
+  margin-left: 50%;
+  margin-top:2%;
+margin-bottom: 10%;  
+}
+.police{
+  color:white;
+  display: inline-block;
+  background-color: black;
+}
+.police div{
+  width: 45%;
+  display: inline-block;
+}
+#jay{
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 2%;
+}
+.chiefpolice{
+  margin-left: 10%;
+}
+.chiefpolice i{
+  margin-right: 20px;
+  
+}.chiefpolice h{
+  margin-bottom: 10%;
+  margin-top: 25%;
+}
+#jay2{
+  font-weight: bold;
+  font-size: 25px;
+}
+.roadpolice img{
+  width: 20%;
+}
+.roadpolice i{
+  padding: 3px;
+}
+.road{
+  font-size: 20px;
+  line-height: 30px;
+  width: 20px;
+  
+}
+.roadpolice input{
+  background-color: gray;
+  padding: 12px;
+  border: none;
+  width: 60%;
+}
+#orange{
+  color: white;
+  padding: 12px;
+  border: none;
+  background-color: lightblue;
+  font-size: 15px;
+  margin-top: 5px;
+  border-radius: 1px;
+  
+}
+.roadpolice input::placeholder{
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}
+#cash{
+  outline: none;
+  color:white;
+}
